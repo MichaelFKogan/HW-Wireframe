@@ -64,8 +64,8 @@ aside{
 article{
 	position:absolute;
 	background: #777;
-	width:370px;
-	height:125px;
+	width:489px;
+	height:150px;
 	margin-left:9px;
 	margin-top: 60px;
 	overflow: auto;
@@ -76,8 +76,8 @@ article{
 
 	position:absolute;
 	background: #ebebeb;
-	width:332px;
-	height:35px;
+	width:455px;
+	height:45px;
 	margin-left: 27px;
 	margin-top: 100px;
 	overflow: auto;
@@ -90,10 +90,10 @@ article{
 p {
 	position:absolute;
 	background: #ebebeb;
-	width:332px;
-	height:35px;
+	width:455px;
+	height:45px;
 	margin-left: 27px;
-	margin-top: 140px;
+	margin-top: 155px;
 	overflow: auto;
 	
 }
